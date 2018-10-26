@@ -30,6 +30,10 @@ weight = 5
  
 +++
 
-# Biography
+# About me
 
-Yoonseo Zoh is currently working as a Lab Manager in CCS Lab. She received her B.A. in Psychology and Education from Seoul National University with summa cum laude. She is broadly interested in the neural mechanisms underlying cognitive and affective processes in social contexts. Her research interests include moral decision making, empathy and prosocial behavior. In the CCS Lab, Yoonseo hopes to gain knowledge in computational modeling and neuroimaging methods.
+I'm currently working as a Lab Manager in [CCS lab](https://ccs-lab.github.io). I received B.A. in Psychology and Education from [Seoul National University](https://www.snu.ac.kr) with summa cum laude. 
+
+I'm interested in the way people form and update a representation of other people's minds, and how this latent structure motivates us to address uncertainty in social situation on how others will be affected by our decisions and behaviors. Also, I'm curious about what unique situational and relational factors differ our mental portrayal of 'other minds', and consequently alter our concern and computation of self and others' interests in making social decisions. I believe our subjective configuration of 'other minds' form the crucial basis for judging socially and interpersonally acceptable and appropriate behaviors, and therefore offering critical clues to decoding fundamentals of moral decision making and judgement. 
+
+To this end, I aim to employ various methodologies, from computational modeling and model-based fMRI to brain stimulation method (tDCS and TMS) and Multi Voxel Pattern Analysis. 

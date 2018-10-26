@@ -30,8 +30,8 @@ date_format = "January 2006"
   
   * Lead Behavioral Data Acquisition
   * Manage Lab IRBs
-  * Build Neuroimage workflow with Python
-  * Contribute to hBayesDM
+  * Build automated Neuroimage analyzing workflow with Python
+  * Contribute to hBayesDM (R package for Bayesian hierarchical analysis)
   """
 
 [[experience]]
@@ -41,7 +41,7 @@ date_format = "January 2006"
   location = "Seoul, Korea"
   date_start = "2018-01-01"
   date_end = "2018-08-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  description = """Acquired strong coding skills and computational modeling method"""
 
 [[experience]]
   title = "Undergraduate Research Assistant"
@@ -50,7 +50,7 @@ date_format = "January 2006"
   location = "Seoul, Korea"
   date_start = "2017-01-01"
   date_end = "2017-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  description = """conducted research for my senior thesis on the topic of licensing effect of moral condemnation"""
 
 
 +++
