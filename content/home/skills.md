@@ -22,10 +22,29 @@ weight = 7
 # * ai - academic icons (see https://jpswalsh.github.io/academicons/)
 
 [[feature]]
+  icon = "python"
+  icon_pack = "fab"
+  name = "Python"
+  description = "Nipype, Nilearn, Pandas, Numpy, Matplotlib, Scikit-learn"
+
+[[feature]]
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "90%"
+  description = "ggplot2, rstan, dplyr"
+ 
+ [[feature]]
+  icon = "code-branch"
+  icon_pack = "fas"
+  name = "github"
+  description = ""
+  
+  [[feature]]
+  icon = "overleaf"
+  icon_pack = "ai"
+  name = "LaTex"
+  description = "100%"  
+
   
 [[feature]]
   icon = "chart-line"

@@ -10,31 +10,26 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Social Neuroscience",
+    "Computational Modeling",
+    "Neuroimaging",
+    "Moral decision making",
+    "Empathy"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "BA in Psychology"
+  institution = "Seoul National University"
+  year = 2018
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "BA in Psychology"
+  institution = "Seoul National University"
+  year = 2018
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Yoonseo Zoh is currently working as a Lab Manager in CCS Lab. She received her B.A. in Psychology and Education from Seoul National University with summa cum laude. She is broadly interested in the neural mechanisms underlying cognitive and affective processes in social contexts. Her research interests include moral decision making, empathy and prosocial behavior. In the CCS Lab, Yoonseo hopes to gain knowledge in computational modeling and neuroimaging methods.
