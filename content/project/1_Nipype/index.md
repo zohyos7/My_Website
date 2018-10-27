@@ -8,7 +8,7 @@ date = "2016-04-27"
 # Project summary to display on homepage.
 summary = "building a Python program for automating nipype workflow of neuroimaging analysis in the CCS lab"
 
-abstract = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam." 
+abstract = "I'm currently building  a Python program for automating nipype workflow of neuroimaging analysis in the CCS lab." 
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
