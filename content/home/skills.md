@@ -31,7 +31,7 @@ weight = 7
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "ggplot2, rstan, dplyr"
+  description = "ggplot2, rstan, dplyr, R Markdown"
   
 [[feature]]
  icon = "chart-area"
