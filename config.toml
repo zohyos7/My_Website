@@ -9,7 +9,7 @@
 baseurl = "https://zohyos7.github.io"
 
 # Title of your site
-title = "Yoonseo Zoh"
+title = "YOONSEO ZOH"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -103,7 +103,7 @@ enableGitInfo = false
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
-  font = "classic"
+  #font = "classic"
 
   # Description for social sharing and search engines. If undefined, author role is used in place.
   description = ""
@@ -176,7 +176,7 @@ enableGitInfo = false
 
   # Link custom CSS and JS assets
   #   (relative to /static/css and /static/js respectively)
-  custom_css = []
+  custom_css = ["blue.css"]
   custom_js  = []
 
   # Publication types.
