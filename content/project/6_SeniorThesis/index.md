@@ -6,7 +6,7 @@ title = "Senior Thesis on licensing effect of Moral condemnation"
 date = 2016-04-27T00:00:00
 
 # Project summary to display on homepage.
-summary = "Processed and Plotted Amazon mturk data with R(dplyr / ggplot2), to see if LGBT group is more vulnerable to peer influence in making risky choices"
+summary = "examined if moral condemnation could also act as a means of signaling one’s moral superiority compared to the condemned one, thus lead to licensing effect, allowing condemners to relish their heightened moral status and make a morally dubious decision with less compunctions afterward"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
