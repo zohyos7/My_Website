@@ -40,6 +40,24 @@ weight = 7
  description = "SPM12"
 
 [[feature]]
+  icon = "file-code"
+  icon_pack = "fas"
+  name = "Website Builder"
+  description = "Jekyll, Hugo"  
+
+[[feature]]
+  icon = "code"
+  icon_pack = "fas"
+  name = "Coding"
+  description = "html(basic), shell scripting (basic)"  
+
+[[feature]]
+  icon = "images"
+  icon_pack = "fas"
+  name = "Adobe"
+  description = "Photoshop, Premiere pro"  
+
+[[feature]]
   icon = "microsoft"
   icon_pack = "fab"
   name = "Microsoft Office"
