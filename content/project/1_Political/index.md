@@ -15,7 +15,7 @@ tags = ["Research", "fMRI", "Python", "Nipype"]
 # Optional external URL for project (replaces project detail page).
 external_link = ""
 
-url_custom = [{name = "Codes", url = "http://example.org"}]
+url_custom = [{name = "Codes", url = "https://github.com/zohyos7/project_wellbeing_nipype-public-"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 

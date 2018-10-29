@@ -17,7 +17,7 @@ tags = ["Python", "Coding", "fMRI", "Nipype"]
 # Optional external URL for project (replaces project detail page).
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Codes", url = "http://example.org"}]
+url_custom = [{name = "Codes", url = "http://example.org"}, {name = "Nipype", url = "https://nipype.readthedocs.io/en/latest/"}]
 
 
 

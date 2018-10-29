@@ -15,7 +15,7 @@ tags = ["Research"]
 # Optional external URL for project (replaces project detail page).
 external_link = ""
 
-url_custom = [{name = "Description", url = "http://example.org"}, {name = "Task Figure", url = "http://example.org"}]
+url_custom = [{name = "Descr", url = "https://drive.google.com/file/d/1n8z-LkN58JpvW6zz3zjqX90Tpn8uPTvi/view?usp=sharing"}, {name = "Figure", url = "https://drive.google.com/file/d/13l0LqcJF3Kj4mPVvBdMMb0wJ5Vck6Ji2/preview"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
