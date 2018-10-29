@@ -15,7 +15,7 @@ tags = ["R", "Coding", "Computational Modeling", "Stan", "Bayesian"]
 # Optional external URL for project (replaces project detail page).
 external_link = ""
 
-url_custom = [{name = "Codes", url = "http://example.org"}, {name = "hBayesDM", url = "https://github.com/CCS-Lab/hBayesDM"}]
+url_custom = [{name = "Codes", url = "https://github.com/zohyos7/hBayesDM_contribution-public-"}, {name = "hBayesDM", url = "https://github.com/CCS-Lab/hBayesDM"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
