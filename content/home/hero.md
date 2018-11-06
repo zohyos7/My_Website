@@ -26,7 +26,7 @@ weight = 3
 
 I'm a Lab Manager in CCS lab,  
 aspring to be a social neuroscientist  
-who studies human's moral minds :purple_heart:
+who studies human's social & moral minds :purple_heart:
 <br>
 <br><br>
 

@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "Processing and Plotting LGBT data with R"
+title = "Processing and Plotting LGBT risky choice data with R"
 
 # Date this page was created.
 date = 2016-04-27T00:00:00
