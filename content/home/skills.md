@@ -46,12 +46,6 @@ weight = 7
   description = "Jekyll, Hugo"  
 
 [[feature]]
-  icon = "code"
-  icon_pack = "fas"
-  name = "Coding"
-  description = "html(basic), shell scripting (basic)"  
-
-[[feature]]
   icon = "images"
   icon_pack = "fas"
   name = "Adobe"
@@ -66,8 +60,8 @@ weight = 7
  [[feature]]
   icon = "code-branch"
   icon_pack = "fas"
-  name = "github"
-  description = ""
+  name = "git"
+  description = "git, github"
   
   [[feature]]
   icon = "overleaf"

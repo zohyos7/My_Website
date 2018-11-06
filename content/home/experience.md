@@ -22,6 +22,7 @@ date_format = "January 2006"
   title = "Lab Manager"
   company = "Computational Clinical Neuroscience Lab"
   company_url = "https://ccs-lab.github.io"
+  PI = "(Dr. Woo-Young Ahn)"
   location = "Seoul, Korea"
   date_start = "2018-09-01"
   date_end = ""
@@ -30,7 +31,7 @@ date_format = "January 2006"
   
   * Lead Behavioral Data Acquisition
   * Manage Lab IRBs
-  * Build automated Neuroimage analyzing workflow with Python
+  * Build a Nipype workflow of fMRI data analysis
   * Contribute to hBayesDM (R package for Bayesian hierarchical analysis)
   """
 
@@ -38,6 +39,7 @@ date_format = "January 2006"
   title = "Full time research assistant"
   company = "Computational Clinical Neuroscience Lab"
   company_url = ""
+  PI = "(Dr. Woo-Young Ahn)"
   location = "Seoul, Korea"
   date_start = "2018-01-01"
   date_end = "2018-08-31"
@@ -47,6 +49,7 @@ date_format = "January 2006"
   title = "Undergraduate Research Assistant"
   company = "Social Psychology Lab"
   company_url = ""
+  PI = "(Dr. Incheol Choi)"
   location = "Seoul, Korea"
   date_start = "2017-01-01"
   date_end = "2017-12-31"

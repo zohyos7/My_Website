@@ -4,7 +4,7 @@ widget = "hero"
 draft = false
 date = 2017-10-15T00:00:00
 
-title = "Welcome to Yooonseo's personal webpage"
+title = "Welcome to Yoonseo's personal webpage"
 
 # Order that this section will appear in.
 weight = 3
