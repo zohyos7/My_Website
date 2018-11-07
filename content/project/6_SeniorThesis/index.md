@@ -14,7 +14,7 @@ tags = ["Research", "Moral Psychology", "Social Psychology"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
-url_custom = [{name = "poster", url = "http://example.org"}]
+url_custom = [{name = "poster", url = "https://drive.google.com/file/d/1VKuo9hLRLS8sxfaq-PNEcP-To9Y8M97Y/preview"}, {name = "measure", url = "https://drive.google.com/file/d/1Z5dHlvspBjSmfO3WEwDNoCtPbBE_M2zY/preview"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
