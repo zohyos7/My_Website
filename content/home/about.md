@@ -24,7 +24,7 @@ weight = 5
   year = 2018
 
 [[education.courses]]
-  course = "BA in Psychology"
+  course = "BA in Education"
   institution = "Seoul National University"
   year = 2018
  
