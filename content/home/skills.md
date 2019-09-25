@@ -25,7 +25,7 @@ weight = 7
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "Nipype, Nilearn, Pandas, Numpy, Matplotlib, Scikit-learn"
+  description = "Nipype, Nilearn, Pandas, Numpy, Matplotlib, Scikit-learn, Psychopy"
 
 [[feature]]
   icon = "r-project"
@@ -37,7 +37,7 @@ weight = 7
  icon = "chart-area"
  icon_pack = "fas"
  name = "MATLAB"
- description = "SPM12"
+ description = "SPM12, glmnet"
 
 [[feature]]
   icon = "file-code"
