@@ -4,7 +4,7 @@ widget = "hero"
 draft = false
 date = 2017-10-15T00:00:00
 
-title = "Welcome to Yoonseo's personal webpage"
+title = "Yoonseo Zoh, 조 윤서"
 
 # Order that this section will appear in.
 weight = 3
@@ -20,15 +20,17 @@ weight = 3
 #   Activate the button by specifying a URL and button label below.
 #   Deactivate by commenting out parameters, prefixing lines with `#`.
 [cta]
-  url = "https://ccs-lab.github.io"
-  label = '<i class="fas fa-mouse-pointer"></i> Learn more about CCS lab'
+    url = "http://ipa-reader.xyz/?text=juns%C9%94%3A&voice=Ivy"
+    label = '<i class="fas fa-mouse-pointer"></i> How to pronounce my name'
 +++
 
-I'm a Lab Manager in CCS lab,  
+<br>
+I'm an incoming PhD student in Psychology at Yale,  
 aspring to be a social neuroscientist  
 who studies human's social & moral minds :purple_heart:
 <br>
-<br><br>
+<br>
+
 
 <script type="text/javascript">
 

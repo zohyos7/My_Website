@@ -52,20 +52,20 @@ enableGitInfo = false
 
   # Your details.
   name = "Yoonseo Zoh"
-  role = "Lab Manager in CCS lab"
+  role = "Incoming social neuroscience PhD student"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Seoul National University", url = "" } ]
+  organizations = [ { name = "Yale University", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
   email = "zohyos7@gmail.com"
-  address = "Building 16 Room M309, Seoul National University, Seoul, South Korea"
-  office_hours = "Monday-Friday 9:00 to 17:00 or email for appointment"
-  phone = "+82 10 5121 4543"
+  address = "Seoul, South Korea"
+  office_hours = ""
+  phone = ""
   skype = "zohyos7"
   telegram = ""
   keybase = ""  # Your keybase.io username.
