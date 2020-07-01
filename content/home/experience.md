@@ -18,6 +18,18 @@ date_format = "January 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+title = "Graduate Student"
+company = "Yale University, Department of Psychology"
+company_url = "https://psychology.yale.edu/"
+PI = "(PI: Drs. Molly Crockett & Steve Chang)"
+location = "Connecticut, US"
+date_start = "2020-09-01"
+date_end = ""
+description = """
+"""
+
 [[experience]]
   title = "Lab Manager"
   company = "Computational Clinical Neuroscience Lab"
@@ -25,7 +37,7 @@ date_format = "January 2006"
   PI = "(PI: Dr. Woo-Young Ahn)"
   location = "Seoul, Korea"
   date_start = "2018-09-01"
-  date_end = ""
+  date_end = "2020-06-30"
   description = """
   Main Responsibilities include:
   
