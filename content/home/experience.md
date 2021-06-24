@@ -29,42 +29,4 @@ date_start = "2020-09-01"
 date_end = ""
 description = """ """
 
-[[experience]]
-  title = "Lab Manager"
-  company = "Computational Clinical Neuroscience Lab"
-  company_url = "https://ccs-lab.github.io"
-  PI = "(PI : Dr. Woo-Young Ahn)"
-  location = "Seoul, Korea"
-  date_start = "2018-09-01"
-  date_end = "2020-06-30"
-  description = """
-  Main Responsibilities include:
-  
-  * Lead Behavioral Data Acquisition
-  * Manage Lab IRBs
-  * Build a Nipype workflow of fMRI data analysis
-  * Contribute to hBayesDM (R package for Bayesian hierarchical analysis)
-  """
-
-[[experience]]
-  title = "Full time research assistant"
-  company = "Computational Clinical Neuroscience Lab"
-  company_url = ""
-  PI = "(PI : Dr. Woo-Young Ahn)"
-  location = "Seoul, Korea"
-  date_start = "2018-01-01"
-  date_end = "2018-08-31"
-  description = """Acquired strong coding skills and computational modeling method"""
-
-[[experience]]
-  title = "Undergraduate Research Assistant"
-  company = "Social Psychology Lab"
-  company_url = ""
-  PI = "(PI : Dr. Incheol Choi)"
-  location = "Seoul, Korea"
-  date_start = "2017-01-01"
-  date_end = "2017-12-31"
-  description = """conducted research for my senior thesis on the topic of licensing effect of moral condemnation"""
-
-
 +++

@@ -52,7 +52,7 @@ enableGitInfo = false
 
   # Your details.
   name = "Yoonseo Zoh"
-  role = "Incoming social neuroscience PhD student"
+  role = "Social neuroscience PhD student"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -62,8 +62,8 @@ enableGitInfo = false
   avatar = "portrait.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "zohyos7@gmail.com"
-  address = "Seoul, South Korea"
+  email = "yoonseo.zoh@yale.edu"
+  address = "New Haven, CT"
   office_hours = ""
   phone = ""
   skype = "zohyos7"
@@ -294,20 +294,21 @@ enableGitInfo = false
 #  url = "#posts"
 #  weight = 3
 
-[[menu.main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 4
+#[[menu.main]]
+#  name = "Projects"
+#  url = "#projects"
+#  weight = 4
 
 [[menu.main]]
-  name = "Presentations"
-  url = "#talks"
+  name = "Publications"
+  url = "#publications"
   weight = 5
 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
   weight = 6
+
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

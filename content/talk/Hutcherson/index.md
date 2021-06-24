@@ -58,6 +58,7 @@ math = true
 +++
 
 {{% alert note %}}
-Click on the **Slides** button above to view the pdf file of my slides.
+Click on the **Slides** button above to view the slides used for my presentation .
 {{% /alert %}}
+
 
