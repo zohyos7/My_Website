@@ -21,12 +21,22 @@ date_format = "January 2006"
 
 [[experience]]
 title = "Graduate Student"
+company = "Princeton University, Department of Psychology"
+company_url = "https://psychology.princeton.edu/"
+PI = "(Advisors : Drs. Molly Crockett)"
+location = "New Jersey, US"
+date_start = "2022-09-01"
+date_end = ""
+description = """ """
+
+[[experience]]
+title = "Graduate Student"
 company = "Yale University, Department of Psychology"
 company_url = "https://psychology.yale.edu/"
 PI = "(Advisors : Drs. Molly Crockett & Steve Chang)"
 location = "Connecticut, US"
 date_start = "2020-09-01"
-date_end = ""
+date_end = "2022-08-31"
 description = """ """
 
 +++

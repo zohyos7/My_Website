@@ -25,7 +25,7 @@ weight = 3
 +++
 
 <br>
-I'm a PhD student in Psychology at Yale,  
+I'm a PhD student in Psychology at Princeton,  
 aspring to be a social neuroscientist  
 who studies human's social & moral minds :purple_heart:
 <br>

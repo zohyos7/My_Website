@@ -11,10 +11,9 @@ weight = 5
 [interests]
   interests = [
     "Social Neuroscience",
-    "Computational Modeling",
-    "Neuroimaging",
+    "Cognitive Modeling",
     "Moral decision making",
-    "Empathy"
+    "Norm learning"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -27,13 +26,22 @@ weight = 5
   course = "BA in Education"
   institution = "Seoul National University"
   year = 2018
+
+[[education.courses]]
+  course = "M.A. in Psychology"
+  institution = "Yale University"
+  year = 2022  
+
+[[education.courses]]
+  course = "M.Phil in Psychology"
+  institution = "Yale University"
+  year = 2022  
  
 +++
 
 # About me
 
-I'm a rising 2nd year PhD student in Psychology at Yale, working with [Dr. Molly Crockett](http://www.crockettlab.org/) and [Dr. Steve Chang](https://changlab.yale.edu/welcome-lab). I received B.A. in Psychology and Education from [Seoul National University](https://www.snu.ac.kr) with summa cum laude. 
+I'm a rising 4th year PhD student in Department of Psychology at Princeton, working with [Dr. Molly Crockett](http://www.crockettlab.org/). I received B.A. in Psychology and Education from Seoul National University with summa cum laude, and M.A. and M.phil. in Psychology (with concentration in Neuroscience) from Yale University. 
 
-I am interested in identifying the interplay of contexts and motives which give rise to the different modalities of human social minds, shifting from being caring and altruistic to being atrocious and selfish. More specifically, I would like to study the way people perceive and represent other people's minds, and how this changes by learning from others' reactions. Also, I am curious about varying degrees of consideration given to other people's minds, and how we reconcile the self and others' interests in making social decisions. I aim to advance the understanding of what goes on in each component of cognitive processing in interpersonal contexts - the neural mechanisms in the swinging pendulum of the human social mind.
+My research focuses on exploring the interaction between fundamental cognitive processes and systems of moral intuitions, and how they contribute to a wide range of human social behaviors. By integrating insights from decision-making systems, computational models, human behavior, and neuroimaging data, I aim to deepen our understanding of the mechanistic workings of the human social and moral mind.
 
-It is my life-long goal that with my active research and publications, I will provide valuable opportunies for a broader audience, myself included, to contemplate our everyday social decisions in interpersonal contexts and how we could do better. Ultimately, I hope that my research will help to build a more caring society, where people successfully take into consideration and choose to respect each other's feelings and thoughts.
