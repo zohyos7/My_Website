@@ -15,18 +15,18 @@ weight = 10
 
 +++
 
-PSY 200 <b> Statistics</b>, Yale University,
+<font size="6%">:pencil: </font> PSY 200 <big><b> Statistics</big></b>, Yale University,
 Fall 2021<br>
 with Dr. Dylan Gee
 
-PSY 376 <b> Learning and Memory</b>, Yale University,
+<font size="6%">:pencil: </font> PSY 376 <big><b> Learning and Memory</big></b>, Yale University,
 Spring 2022<br>
 with Dr. Sam Mcdougal
 
-PSY 252 <b> Social Psychology</b>, Princeton University, 
+<font size="6%">:pencil: </font> PSY 252 <big><b> Social Psychology</big></b>, Princeton University, 
 Spring 2023<br>
 with Dr. Rebecca Carey
 
-PSY 340 <b> Neuroeconomics</b>, Princeton University, 
+<font size="6%">:pencil: </font> PSY 340 <big><b> Neuroeconomics</big></b>, Princeton University, 
 Fall 2023 (planned)<br>
 with Dr. Nathaniel Daw
