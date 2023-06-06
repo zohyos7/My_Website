@@ -52,7 +52,7 @@ enableGitInfo = false
 
   # Your details.
   name = "Yoonseo Zoh"
-  role = "Social neuroscience PhD student"
+  role = "Psychology PhD student"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -63,7 +63,7 @@ enableGitInfo = false
 
   # Details for the Contact Widget
   email = "yoonseo.zoh@princeton.edu"
-  address = "Princeton, NJ"
+  address = "Peretsman Scully Hall 330"
   office_hours = ""
   phone = ""
   skype = ""
@@ -112,7 +112,7 @@ enableGitInfo = false
   sharing_image = ""
 
   # Twitter username (without @). Used when a vistor shares your site on Twitter.
-  twitter = ""
+  twitter = "zohyos7"
 
   # Diplay a logo in navigation bar rather than title (optional).
   #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
@@ -247,7 +247,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fas"
-    link = "mailto:zohyos7@gmail.com"
+    link = "mailto:yoonseo.zoh@princeton.edu"
 
   [[params.social]]
     icon = "twitter"
