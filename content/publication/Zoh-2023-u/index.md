@@ -1,5 +1,7 @@
 +++
-title = "Behavioral and neural evidence for a two-dimensional model of utilitarianism"
+title = ""
+
+titletwo = "Behavioral and neural evidence for a two-dimensional model of utilitarianism"
 
 date = 2023-06-03T00:00:00
 draft = false

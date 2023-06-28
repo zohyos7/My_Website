@@ -1,5 +1,8 @@
 +++
-title = "Decomposing the neurocomputational mechanisms of deontological moral preferences"
+
+title = ""
+
+titletwo = "Decomposing the neurocomputational mechanisms of deontological moral preferences"
 
 date = 2023-06-01T00:00:00
 draft = false

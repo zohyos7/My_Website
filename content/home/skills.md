@@ -10,7 +10,7 @@ title = "Skills"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 12
+weight = 14
 
 # Showcase personal skills or business features.
 # 
