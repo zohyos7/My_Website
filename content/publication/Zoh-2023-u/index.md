@@ -27,7 +27,7 @@ abstract = "Utilitarian ethical theories state that the morality of actions depe
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.

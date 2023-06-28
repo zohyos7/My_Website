@@ -266,6 +266,16 @@ enableGitInfo = false
      icon_pack = "fa"
      link = "files/cv.pdf"
 
+ [[params.social]]
+      icon      = "linkedin" # icon name without the 'fa-'
+      icon_pack = "fab"
+      url       = "//linkedin.com/in/yoonseo-zoh-38b4b5149"
+
+  [[params.social]]
+     icon = "google-scholar"
+     icon_pack = "ai"
+     link = "//scholar.google.com/citations?user=y-5rvKcAAAAJ&hl=en"
+
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
 #     desired widget in your `content/home/` folder.
