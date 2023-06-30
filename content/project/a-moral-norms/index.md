@@ -2,7 +2,7 @@
 title: Moral Norm & Ethics
 summary: <br>Whether and how do moral norms culturally evolve?<br><br>How do we adjudicate between different moral principles when they conflict?<br><br>What are cognitive subcomponents of utilitarianism and deontology?
 tags:
-- Moral norm
+- Moral Norm
 date: "2023-06-28T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
