@@ -1,6 +1,6 @@
 ---
 title: Decision-making
-summary: <br>How do we make decisions regarding transformative experiences, given that these very experiences could potentially change our preferences?<br><br>How does our cognitive representation of the experiences of others, which are which are outside our own lived experiences, shape the social decisions we make?
+summary: <br>How do we make decisions regarding transformative experiences, given that these very experiences could potentially change our preferences?<br><br>How does our cognitive representation of the experiences of others, which are outside our own lived experiences, shape the social decisions we make?
 tags:
 - Decision making
 date: "2023-06-28T00:00:00Z"
