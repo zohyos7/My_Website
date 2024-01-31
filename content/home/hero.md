@@ -25,9 +25,8 @@ weight = 3
 +++
 
 <br>
-I'm a PhD student in Psychology at Princeton,  
-aspring to be a social neuroscientist  
-who studies our social & moral minds :purple_heart:
+I'm a PhD student in Psychology / Stats & ML at Princeton. <br>🧠 :robot: 💡 :heart:<br>
+My research explores how people make decisions regarding issues of justice and morality, the cultural evolution of these processes, <br> and the impact of technology in this evolving landscape 
 <br>
 <br>
 
