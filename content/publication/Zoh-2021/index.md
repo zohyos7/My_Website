@@ -41,7 +41,7 @@ projects = ["internal-project"]
 tags = ["fMRI", "Social Neuroscience", "Neuroeconomics", "Prosociality", "Decision Neuroscience"]
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://www.nature.com/articles/s41386-021-01092-5.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -56,7 +56,7 @@ url_source = ""
 url_custom = [{name = "Link", url = "https://www.nature.com/articles/s41386-021-01092-5"}]
 
 # Digital Object Identifier (DOI)
-doi = "https://doi.org/10.1038/s41386-021-01092-5"
+doi = "https://doi.org/10.1037/xge0001820"
 
 # Does this page contain LaTeX math? (true/false)
 math = true

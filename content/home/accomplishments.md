@@ -20,6 +20,15 @@ weight = 12
 
 [[item]]
 certificate_url = ""
+date_start = '2024-08-01'
+description = "This funding supports graduate research at Princeton in cognitive science, specifically to initiate new lines of interdisciplinary research in the field. "
+organization = "Program in Cognitive Science, Princeton University"
+organization_url = "https://cogsci.princeton.edu/funding/graduate-student-research-funding"
+title =  "Graduate Research Support"
+url = ''
+
+[[item]]
+certificate_url = ""
 date_end = '2024-06-01'
 date_start = '2023-09-01'
 description = "The program offers financial support to graduate students from Princeton University, who are engaged in studies in the domain of behavioral science and public policy. Selection of the recipients is based on the outstanding academic progress and the projected path of future research"

@@ -3,11 +3,11 @@ title = ""
 
 titletwo = "Historical principles in distributive decision-making are common, politically variable and malleable"
 
-date = 2023-06-03T00:00:00
+date = 2020-06-03T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["<b>Zoh, Y.</b>", "Paul, L.", "Crockett, M.J."]
+authors = ["<b>Zoh, Y.</b>", "Shin, Y.", "Carlson, R.", "Chang, S.", "Crockett, M.J."]
 
 # Publication type.
 # Legend:

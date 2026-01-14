@@ -41,7 +41,7 @@ projects = ["internal-project"]
 tags = ["Social Psychology", "Epistemology", "Decision"]
 
 # Links (optional).
-url_pdf = "https://osf.io/preprints/psyarxiv/sw48d/download?format=pdf"
+url_pdf = "https://link.springer.com/epdf/10.1007/s11229-023-04474-y?sharing_token=fm9EH3m_D0S5ewirZPqJC_e4RwlQNchNByi7wbcMAY4E_AHjECoJ2hoeFJs-LriOfyygyS1INQLk0TpBxR280k_ujr3uthtwHlj4mC-EzJWZkOU89FO00CsXQLk8oJEDYd1vAXnvjEoOkLdTqXN7IbXIxmEfh-oLYAmKiuSist8%3D"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
