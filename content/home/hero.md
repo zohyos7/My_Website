@@ -19,14 +19,14 @@ weight = 3
 # Call to action button (optional).
 #   Activate the button by specifying a URL and button label below.
 #   Deactivate by commenting out parameters, prefixing lines with `#`.
-[cta]
-    url = "http://ipa-reader.xyz/?text=juns%C9%94%3A&voice=Ivy"
-    label = '<i class="fas fa-mouse-pointer"></i> How to pronounce my name'
+#[cta]
+#    url = "http://ipa-reader.xyz/?text=juns%C9%94%3A&voice=Ivy"
+#    label = '<i class="fas fa-mouse-pointer"></i> How to pronounce my name'
 +++
 
 <br>
-I'm a PhD student in Psychology / Stats & ML at Princeton. <br>🧠 :robot: 💡 :heart:<br>
-My research explores how people make decisions regarding issues of justice and morality, the cultural evolution of these processes, <br> and the impact of technology in this evolving landscape 
+I'm a PhD candidate in Psychology at Princeton University. <br><br>
+I study how people form moral and social judgments under cognitive constraints — how these judgments evolve across cultures, and how emerging technologies are reshaping them.
 <br>
 <br>
 

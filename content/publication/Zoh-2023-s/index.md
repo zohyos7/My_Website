@@ -18,8 +18,8 @@ authors = ["<b>Zoh, Y.</b>", "Paul, L.", "Crockett, M.J."]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *press*"
-publication_short = "In *press*"
+publication = "In *Synthese*"
+publication_short = "In *Synthese*"
 
 # Abstract and optional shortened version.
 abstract = "Our paper contributes to the rapidly expanding body of experimental research on transformative decision making, and in the process, marks out a novel empirical interpretation for assessments of subjective value in transformative contexts. We start with a discussion of the role of subjective value in transformative decisions, and then critique extant experimental work that explores this role, with special attention to Reuter and Messerli (2018). We argue that current empirical treatments miss a crucial feature of practical deliberation manifesting across a variety of everyday decisions: often, people attach more weight to decision criteria that they can know - a phenomenon known as the evaluability bias. In transformative contexts, if people cannot know the subjective value of an option, they are unlikely to attach it much weight. Despite this, people may care very much about such value. We then use this point to develop and present new empirical results that, in addition to supporting our concerns about evaluability bias, support the hypothesis that people care about subjective value. Our work enriches the current philosophical understanding of transformative decisions and helps to frame the emerging experimental paradigm for the empirical dimensions of the debate."
@@ -53,10 +53,10 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "PsyArXiv", url = "https://osf.io/preprints/psyarxiv/sw48d"}]
+url_custom = [{name = "Link", url = "https://link.springer.com/article/10.1007/s11229-023-04474-y"}]
 
 # Digital Object Identifier (DOI)
-doi = "10.31234/osf.io/sw48d"
+doi = "https://doi.org/10.1007/s11229-023-04474-y"
 
 # Does this page contain LaTeX math? (true/false)
 math = false
